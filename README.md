@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrika Kunjumon</h1>
-<h4>I'm a final year Electrical Engineering student at IIT Jodhpur. Currently, I'm a technical intern at Siemens Technology and Services Private Limited (STSPL) Bengaluru. Apart from coding, I like to dance, sketch, read/write. Feel free to explore my profile and reach out if you'd like to connect or collaborate. Keep learning and never stop exploring!🤓</h4>
+<h4>I'm a final year Electrical Engineering student at IIT Jodhpur. I interned as a technical intern at Siemens Technology and Services Private Limited (STSPL) Bengaluru in Summer '24. Apart from coding, I like to dance, sketch, read/write. Feel free to explore my profile and reach out if you'd like to connect or collaborate. Keep learning and never stop exploring!🤓</h4>
 
 <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300" align="right">
 

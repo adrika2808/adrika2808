@@ -3,9 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300" align="right">
 
-- 💻 I’m currently working at **STSPL, Bengaluru (Technical Intern Summer '24)**
-
-- 🌱 I’m currently learning **Angular, AWS, Backend Development**
+- 💻 I’m interned at **STSPL, Bengaluru (Technical Intern Summer '24)**
 
 - 📝 Explore my [**LinkedIn**](https://www.linkedin.com/in/adrikakunjumon/)
 
